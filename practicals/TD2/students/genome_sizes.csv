@@ -1,0 +1,1110 @@
+Anopheles gambiae PEST,Eukaryotes,230466.9,13260,13749,19.11 
+Apis mellifera DH4 ,Eukaryotes,217194.9,15948,16360,
+Arabidopsis thaliana columbia,Eukaryotes,119707.4,26735,31392,49.99 
+Aspergillus fumigatus Af293 ,Eukaryotes,29384.9,9923,10152,55.39 
+Aspergillus nidulans FGSC A4,Eukaryotes,30166.8,9541,9727,59.16
+Aspergillus niger CBS 513.88,Eukaryotes,33975.5,14086,14431,65.46
+Aspergillus terreus NIH2624,Eukaryotes,29164.9,10406,10556,59.92
+Bigelowiella natans nucleomorph,Eukaryotes,372.9,293,340,
+Bombyx mori,Eukaryotes,428700,18510,,
+Caenorhabditis elegans,Eukaryotes,100281.2,20056,20935,59.88 
+Candida albicans SC5314,Eukaryotes,28504.7,14105,14144,63.97
+Candida glabrata CBS 138,Eukaryotes,12280.4,5181,5397,64.37
+Canis familiaris,Eukaryotes,2445110.1,33202,50110,
+Chlamydomonas reinhardtii,Eukaryotes,121000,15143,,
+Cryptococcus neoformans neoformans JEC21,Eukaryotes,19051.9,6475,6609,66.88
+Cryptococcus neoformans var. neoformans B-3501A,Eukaryotes,19699.8,6500,6609,64.93
+Cryptosporidium hominis TU502,Eukaryotes,8171,3886,3956,64.91
+Cryptosporidium parvum Iowa type II,Eukaryotes,9098.4,3396,3886,68.9
+Cyanidioschyzon merolae 10D,Eukaryotes,16520.3,5331,5373,44.9
+Danio rerio Tuebingen,Eukaryotes,1097524.4,37724,38017,38.23
+Debaryomyces hansenii CBS767,Eukaryotes,12220.8,6893,7108,76.14
+Dictyostelium discoideum AX4,Eukaryotes,33928.5,13322,13362,68.76 
+Drosophila melanogaster ,Eukaryotes,120401.1,14081,21116,61.37 
+Encephalitozoon cuniculi GB-M1,Eukaryotes,2497.5,1996,2053,86.99
+Entamoeba histolytica HM-1:IMSS,Eukaryotes,21581.5,9772,10202,54.53
+Eremothecium gossypii,Eukaryotes,8742.4,4718,4987,80.17 
+Gallus gallus,Eukaryotes,1031880.1,15288,15700,3.1
+Giardia lamblia ATCC 50803,Eukaryotes,9717.5,6569,6598,94.45
+Gibberella zeae PH-1,Eukaryotes,36487.3,11640,11640,55.64
+Guillardia theta nucleomorph,Eukaryotes,551.3,486,553,90.34
+Hemiselmis andersenii CCMP644 nucleomorph,Eukaryotes,572,472,525,
+Homo sapiens,Eukaryotes,3080436,27727,38612,35.34 
+Kluyveromyces lactis NRRL Y-1140,Eukaryotes,10689.2,5331,5502,70.93
+Magnaporthe grisea 70-15,Eukaryotes,41495.9,12832,13146,47.88
+Mus musculus C57BL/6J,Eukaryotes,2644094,39625,60745,35.34 
+Neurospora crassa OR74A,Eukaryotes,37097.3,10079,10082,45.49 
+Oryza sativa (japonica cultivar-group) ,Eukaryotes,370792,26777,28431,
+Ostreococcus lucimarinus CCE9901,Eukaryotes,13204.9,7603,7640,75.31
+Ostreococcus tauri,Eukaryotes,12560,8166,,81.6
+Pan troglodytes,Eukaryotes,3175580.7,48911,49446,
+Paramecium tetraurelia 
+Phaeodactylum tricornutum CCAP1055/1,Eukaryotes,27400,10402,,52
+Pichia stipitis CBS 6054,Eukaryotes,15441.2,5816,5816,61.23
+Plasmodium falciparum 3D7,Eukaryotes,22859.5,5268,5298,58.38
+Plasmodium yoelii yoelii 17XNL,Eukaryotes,20087,7860,7910,59.12
+Rattus norvegicus GK/Ox,Eukaryotes,2718897.3,27490,38115,31.44 
+Saccharomyces cerevisiae,Eukaryotes,12156.6,5869,6276,73.57 
+Schizosaccharomyces pombe 972h-,Eukaryotes,12554.3,5093,5364,60.42
+Tetrahymena thermophila 
+Thalassiosira pseudonana CCMP1335,Eukaryotes,34500,11242,,
+Theileria parva Muguga,Eukaryotes,8347.6,4079,4159,82.14
+Trypanosoma brucei TREU927,Eukaryotes,20527.4,8772,10253,51.03
+Ustilago maydis 521,Eukaryotes,19638,6522,6631,64.33
+Volvox carteri,Eukaryotes,140000,15544,,
+Yarrowia lipolytica CLIB122,Eukaryotes,20503,6520,7042,47.15
+Acidiphilium cryptum JF-5,Bacteria,3917.1,3551,3552,89.55
+Acidothermus cellulolyticus 11B,Bacteria,2445.4,2151,2197,90.39
+Acinetobacter baumannii ATCC 17978 
+Acinetobacter sp. ADP1,Bacteria,3598.6,3325,3422,88.85
+Actinobacillus pleuropneumoniae 4074,Bacteria,2292.3,2132,2193,86.03
+Actinobacillus pleuropneumoniae L20,Bacteria,2274.5,2012,2108,86
+Actinobacillus succinogenes 130Z,Bacteria,2046.1,1884,1938,89.32
+Agrobacterium tumefaciens C58 Cereon,Bacteria,5673.5,5301,5366,89.6
+Agrobacterium tumefaciens C58 Dupont,Bacteria,5674.1,5402,5467,88.45
+Alkalilimnicola ehrlichei MLHE-1,Bacteria,3272.8,2869,2923,90.66
+Alkaliphilus metalliredigenes QYMF,Bacteria,4410.3,4090,4233,82.44
+Anabaena PCC7120,Bacteria,7211.8,6132,6214,82.41
+Anabaena variabilis ATCC29413,Bacteria,7105.8,5746,5805,82.51
+Anaeromyxobacter dehalogenans 2CP-C,Bacteria,5013.5,4361,4416,91.45
+Anaplasma marginale St. Maries,Bacteria,1197.7,949,1005,85.88
+Anaplasma phagocytophilum HZ,Bacteria,1471.3,1264,1304,68.62
+Aquifex aeolicus VF5,Bacteria,1590.8,1553,1603,92.68
+Arthrobacter sp. FB24,Bacteria,5011.6,4524,4591,90.16
+Aster yellows witches-broom phytoplasma AYWB,Bacteria,724,693,728,74.81
+Azoarcus sp. EbN1,Bacteria,4727.3,4598,4668,90.89
+Azotobacter vinelandii AvOP,Bacteria,5352.4,4990,5058,88.74
+Bacillus anthracis A2012,Bacteria,5093.6,5354,5390,81.08
+Bacillus anthracis Ames,Bacteria,5227.3,5311,5439,81.71
+Bacillus anthracis Ames 0581,Bacteria,5503.9,5617,5745,81.13
+Bacillus anthracis Sterne,Bacteria,5228.7,5287,5415,84.98
+Bacillus cereus ATCC 10987,Bacteria,5432.7,5844,6008,85.82
+Bacillus cereus ATCC 14579,Bacteria,5427.1,5255,5402,81.91
+Bacillus cereus E33L,Bacteria,5300.9,5134,5269,85.14
+Bacillus cereus G9241,Bacteria,5934.9,6147,6316,81.24
+Bacillus cereus NVH391-98,Bacteria,3915.8,3886,4033,81.99
+Bacillus clausii KSM-K16,Bacteria,4303.9,4108,4205,86.95
+Bacillus halodurans C-125,Bacteria,4202.4,4066,4172,86.05
+Bacillus licheniformis Goettingen,Bacteria,4222.6,4196,4289,87.89
+Bacillus licheniformis Novozymes,Bacteria,4222.3,4152,4245,86.78
+Bacillus subtilis 168,Bacteria,4214.6,4106,4225,88.3
+Bacillus thuringiensis konkukian 97-27,Bacteria,5237.7,5117,5264,85.15
+Bacillus weihenstephanensis KBAB4,Bacteria,5602.5,5532,5629,81.97
+Bacteroides fragilis NCTC9343,Bacteria,5241.7,4308,4400,89.74
+Bacteroides fragilis YCH46,Bacteria,5311,4625,4717,90.52
+Bacteroides thetaiotaomicron VPI-5482,Bacteria,6293.4,4816,4902,89.88
+Bartonella henselae Houston-1,Bacteria,1931,1612,1664,76.73
+Bartonella quintana Toulouse,Bacteria,1581.4,1308,1357,78.72
+Bdellovibrio bacteriovorus HD100,Bacteria,3783,3583,3625,93.14
+Bifidobacterium longum DJO10A,Bacteria,2375.3,1956,2020,83.21
+Bifidobacterium longum NCC2705,Bacteria,2260.3,1729,1802,86.43
+Blochmannia floridanus,Bacteria,705.6,589,635,84.91
+Blochmannia pennsylvanicus BPEN,Bacteria,791.7,610,692,77.62
+Bordetella bronchiseptica RB50,Bacteria,5339.2,5006,5070,92.34
+Bordetella parapertussis 12822,Bacteria,4773.6,4402,4465,91.48
+Bordetella pertussis Tohama I,Bacteria,4086.2,3806,3866,90.53
+Borrelia burgdorferi B31,Bacteria,1519.9,1639,1677,86.04
+Borrelia garinii Pbi,Bacteria,986.9,932,972,92.29
+Bradyrhizobium japonicum USDA 110,Bacteria,9105.8,8317,8371,86.76
+Bradyrhizobium sp. BTAi1,Bacteria,8422.4,7462,7518,86.45
+Brevibacterium linens BL2,Bacteria,4510.7,3982,4038,86.42
+Brucella abortus 2308,Bacteria,3278.3,3350,3414,87.68
+Brucella abortus 9-941,Bacteria,3286.4,3085,3149,81.82
+Brucella melitensis 16M,Bacteria,3294.9,3198,3264,86.67
+Brucella suis 1330,Bacteria,3315.2,3273,3337,84.98
+Buchnera aphidicola APS,Bacteria,655.7,574,609,87.4
+Buchnera aphidicola Bp,Bacteria,618.4,507,542,82.28
+Buchnera aphidicola Sg,Bacteria,654.2,555,590,84.14
+Burkholderia ambifaria AMMD,Bacteria,7503.6,6539,6617,88.28
+Burkholderia cenocepacia AU 1054,Bacteria,7249.5,6475,6555,88.1
+Burkholderia cenocepacia HI2424,Bacteria,8139.1,7065,7146,84.74
+Burkholderia mallei 10229,Bacteria,6065.2,5133,5201,79.68
+Burkholderia mallei 10399,Bacteria,5933.9,4886,4947,80.6
+Burkholderia mallei ATCC 23344,Bacteria,5835.5,4764,4831,77.88
+Burkholderia mallei FMH,Bacteria,2273.4,2667,2687,78.9
+Burkholderia mallei GB8 horse 4,Bacteria,5804.9,4822,4884,80.48
+Burkholderia mallei JHU,Bacteria,2190.5,2581,2608,79.81
+Burkholderia mallei NCTC 10247,Bacteria,5976.7,5096,5146,79.81
+Burkholderia mallei NCTC 10247 
+Burkholderia mallei SAVP1,Bacteria,5283.5,4364,4438,80.98
+Burkholderia pseudomallei 1106a 
+Burkholderia pseudomallei 1655,Bacteria,7029.5,5410,5465,77.42
+Burkholderia pseudomallei 1710a,Bacteria,7319.5,5502,5565,76.6
+Burkholderia pseudomallei 1710b,Bacteria,7390.5,5479,5553,76.79
+Burkholderia pseudomallei 668,Bacteria,7071.9,5433,5495,78.59
+Burkholderia pseudomallei 668 
+Burkholderia pseudomallei K96243,Bacteria,7247.5,5855,5928,83.62
+Burkholderia pseudomallei Pasteur,Bacteria,7346.6,5595,5653,77.26
+Burkholderia pseudomallei S13,Bacteria,7388.3,5715,5771,78.01
+Burkholderia sp. 383,Bacteria,8676.3,7739,7824,87.74
+Burkholderia thailandensis E264,Bacteria,6724,5634,5704,86.95
+Burkholderia vietnamiensis G4,Bacteria,8411,7920,7992,87.75
+Burkholderia xenovorans LB400,Bacteria,9703.7,8930,9012,87.57
+Burkholderia xenovorans LB400,Bacteria,9731.1,8957,9039,87.52
+Caldicellulosiruptor saccharolyticus DSM 8903,Bacteria,2788.3,2602,2647,86.67
+Campylobacter coli RM2228,Bacteria,1860.7,1967,2019,92.25
+Campylobacter jejuni NCTC 11168,Bacteria,1641.5,1654,1707,95.41
+Campylobacter jejuni RM1221,Bacteria,1777.8,1838,1891,91.83
+Campylobacter lari RM2100,Bacteria,1562.9,1599,1651,94.54
+Campylobacter upsaliensis RM3195,Bacteria,1773.8,1934,1984,93.46
+Carboxydothermus hydrogenoformans Z-2901,Bacteria,2401.5,2620,2682,91
+Caulobacter crescentus CB15,Bacteria,4016.9,3737,3794,90.56
+Chlamydia muridarum Nigg,Bacteria,1080.5,911,954,90.58
+Chlamydia trachomatis A/HAR-13,Bacteria,1052,919,960,90.96
+Chlamydia trachomatis D/UW-3/CX,Bacteria,1042.5,894,937,90.83
+Chlamydophila abortus S26/3,Bacteria,1144.4,961,1002,90.98
+Chlamydophila caviae GPIC,Bacteria,1181.4,1005,1047,89.78
+Chlamydophila felis Fe/C-56,Bacteria,1173.8,1013,1054,91.53
+Chlamydophila pneumoniae AR39,Bacteria,1229.9,1110,1151,89.22
+Chlamydophila pneumoniae CWL029,Bacteria,1230.2,1052,1118,88.76
+Chlamydophila pneumoniae J138,Bacteria,1226.6,1069,1134,90.05
+Chlamydophila pneumoniae TW-183,Bacteria,1225.9,1113,1154,90.55
+Chlorobium limicola DSMZ 245,Bacteria,2761.9,2436,2483,85.87
+Chlorobium phaeobacteroides BS1,Bacteria,4444.2,3791,3845,78.11
+Chlorobium phaeobacteroides DSMZ 266,Bacteria,3114.3,2792,2840,85.18
+Chlorobium tepidum TLS,Bacteria,2154.9,2252,2308,88.46
+Chlorobium vibrioforme f. thiosulfatophilum DSMZ 265,Bacteria,1980.2,1747,1798,90.47
+Chlorochromatium aggregatum,Bacteria,2572.1,2033,2081,89.07
+Chloroflexus aurantiacus J-10-fl,Bacteria,5193.8,3938,3994,82.25
+Chromobacterium violaceum ATCC 12472,Bacteria,4751.1,4407,4530,89.4
+Chromohalobacter salexigens DSM 3043,Bacteria,3696.6,3319,3404,90.64
+Chromohalobacter salexigens DSM 3043,Bacteria,3671,3347,3422,90.92
+Clostridium acetobutylicum ATCC 824,Bacteria,4132.9,3848,3955,86.93
+Clostridium beijerincki NCIMB 8052,Bacteria,5952.5,5068,5210,80.61
+Clostridium difficile 630 ,Bacteria,4290.3,3742,3971,82
+Clostridium perfringens 13,Bacteria,3085.7,2723,2849,85.1
+Clostridium tetani E88,Bacteria,2873.3,2432,2504,85.96
+Clostridium thermocellum ATCC 27405,Bacteria,3895,3163,3235,79.84
+Clostridium thermocellum ATCC 27405,Bacteria,3843.3,3191,3307,83
+Colwellia psychrerythraea 34H,Bacteria,5373.2,4910,5114,85.36
+Corynebacterium diphtheriae NCTC 13129,Bacteria,2488.6,2320,2389,90.3
+Corynebacterium efficiens YS-314,Bacteria,3219.5,2998,3069,90.83
+Corynebacterium glutamicum ATCC 13032 Kalinowski ,Bacteria,3282.7,3058,3136,88.37
+Corynebacterium glutamicum ATCC 13032 Nakagawa ,Bacteria,3309.4,3099,3177,87.83
+Corynebacterium jeikeium K411,Bacteria,2476.8,2120,2229,89.94
+Coxiella burnetii RSA 493,Bacteria,2032.7,2046,2091,84.29
+Croceibacter atlanticus HTCC2559,Bacteria,2954.7,2719,2756,92.63
+Crocosphaera watsonii WH8501,Bacteria,6285.4,5967,6011,78.22
+Cupriavidus metallidurans CH34,Bacteria,6887.6,6312,6377,88.89
+Cupriavidus necator (Ralstonia eutropha) JMP134,Bacteria,7255.3,6529,6613,88.53
+Cytophaga hutchinsonii ATCC 33406,Bacteria,4433.2,3592,3640,89.65
+Dechloromonas aromatica RCB,Bacteria,4501.1,4204,4280,92.39
+Dehalococcoides ethenogenes 195,Bacteria,1469.7,1580,1629,90.2
+Dehalococcoides sp. BAV1,Bacteria,1299.5,1314,1354,89.44
+Dehalococcoides sp. CBDB1,Bacteria,1395.5,1458,1508,90.47
+Deinococcus geothermalis DSM11300,Bacteria,3164.1,2993,3058,89.53
+Deinococcus radiodurans R1,Bacteria,3284.2,3102,3159,87.71
+Desulfitobacterium hafniense DCB-2,Bacteria,6083.8,4391,4463,69.23
+Desulfitobacterium hafniense Y51,Bacteria,5727.5,5060,5137,85.21
+Desulfotalea psychrophila LSv54,Bacteria,3659.6,3236,3343,86.02
+Desulfotomaculum reducens MI-1,Bacteria,3467.3,3220,3272,83.57
+Desulfovibrio desulfuricans G20,Bacteria,3730.2,3784,3862,91.13
+Desulfovibrio vulgaris Hildenborough,Bacteria,3773.2,3531,3615,86.57
+Desulfuromonas acetoxidans DSM 684,Bacteria,3529,3032,3065,87.31
+Ehrlichia canis Jake,Bacteria,1315,944,983,72.91
+Ehrlichia chaffeensis Arkansas,Bacteria,1176.2,1105,1145,79.94
+Ehrlichia chaffeensis sapulpa,Bacteria,1005.8,805,834,72.99
+Ehrlichia ruminantium Gardel,Bacteria,1499.9,980,1019,64.57
+Ehrlichia ruminantium str. Welgevonden,Bacteria,1516,888,961,62
+Ehrlichia ruminantium Welgevonden ARC-OVI,Bacteria,1516.4,943,982,63.32
+Ehrlichia ruminantium Welgevonden CIRAD,Bacteria,1513,976,1015,63.94
+Enterococcus faecalis V583,Bacteria,3360,3264,3344,86.53
+Enterococcus faecium DO,Bacteria,2848.4,2722,2794,84.4
+Erwinia carotovora subsp. atroseptica SCRI1043,Bacteria,5064,4492,4590,87.15
+Erythrobacter litoralis HTCC2594,Bacteria,3052.8,3042,3088,92.05
+Escherichia coli K12,Bacteria,4738.8,4359,4468,88.53
+Escherichia coli O157:H7 EDL933,Bacteria,5620.5,5449,5571,87.81
+Escherichia coli O6 CFT073,Bacteria,5231.4,5379,5489,88.66
+Escherichia coli Sakai O157:H7,Bacteria,5591.2,5444,5571,88.19
+Escherichia coli UTI89,Bacteria,5180,5211,5321,89.64
+Exiguobacterium sp. 255-15,Bacteria,2894.1,2976,3073,89.35
+Flavobacterium johnsoniae UW101,Bacteria,6069.8,4985,5037,87.26
+Francisella tularensis SCHU S4,Bacteria,1892.8,1804,1863,88.25
+Frankia sp. CcI3,Bacteria,5381.4,4561,4611,85.5
+Frankia sp. CcI3,Bacteria,5433.6,4548,4600,85.56
+Frankia sp. EAN1pec,Bacteria,9081.4,7981,8039,85.68
+Fusobacterium nucleatum nucleatum ATCC 25586,Bacteria,2174.5,2067,2129,90.05
+Fusobacterium nucleatum subsp. vincentii ATCC 49256,Bacteria,2118.3,2250,2327,86.04
+Geobacillus kaustophilus HTA426,Bacteria,3592.7,3540,3654,86.1
+Geobacter metallireducens GS-15,Bacteria,4011.2,3576,3631,91.55
+Geobacter metallireducens GS-15,Bacteria,4011.2,3576,3631,91.55
+Geobacter sulfurreducens PCA,Bacteria,3814.1,3447,3502,89.92
+Geobacter uraniumreducens Rf4,Bacteria,4882.3,4187,4188,85.94
+Gloeobacter violaceus PCC 7421,Bacteria,4659,4430,4478,89.31
+Gluconobacter oxydans 621H,Bacteria,2922.4,2664,2732,90.02
+Haemophilus ducreyi 35000HP,Bacteria,1699,1717,1784,86.62
+Haemophilus influenzae 86-028NP,Bacteria,1913.4,1792,1869,88.53
+Haemophilus influenzae R2846,Bacteria,1824.2,1691,1759,89.11
+Haemophilus influenzae R2866,Bacteria,1933.3,1817,1892,89.24
+Haemophilus influenzae Rd KW20,Bacteria,1830.1,1709,1785,87.24
+Haemophilus somnus 129PT,Bacteria,2008.4,1779,1845,89.59
+Haemophilus somnus 2336,Bacteria,2247.7,2081,2131,87.99
+Hahella chejuensis KCTC 2396,Bacteria,7215.3,6778,6860,88.2
+Halorhodospira halophila SL1,Bacteria,2674.3,2423,2423,92.1
+Halothermothrix orenii H 168,Bacteria,2464,2273,2274,87.08
+Helicobacter hepaticus ATCC 51449,Bacteria,1799.1,1875,1939,93.44
+Helicobacter pylori 26695,Bacteria,1667.9,1566,1609,90.04
+Helicobacter pylori J99,Bacteria,1643.8,1491,1531,90.69
+Herminiimonas arsenicoxydans ,Bacteria,3424.3,3325,3391,87
+Idiomarina loihiensis L2TR,Bacteria,2839.3,2628,2697,92.8
+Jannaschia sp. CCS1,Bacteria,4404,4283,4328,90.77
+Jannaschia sp.CCS1,Bacteria,4399.7,4292,4337,90.87
+Kineococcus radiotolerans SRS30216,Bacteria,4894,4561,4618,90.69
+Lactobacillus acidophilus NCFM,Bacteria,1993.6,1864,1944,89.27
+Lactobacillus brevis ATCC367,Bacteria,1880.8,1550,1600,72.96
+Lactobacillus casei ATCC334,Bacteria,2760.7,2478,2529,71.74
+Lactobacillus delbrueckii bulgaricus ATCCBAA-365,Bacteria,1629.4,1543,1622,73.33
+Lactobacillus gasseri ATCC33323,Bacteria,1950.2,1695,1757,84.09
+Lactobacillus johnsonii NCC 533,Bacteria,1992.7,1820,1915,90.85
+Lactobacillus plantarum WCFS1,Bacteria,3308.3,3051,3137,85.25
+Lactobacillus reuteri 100-23,Bacteria,2174.3,1972,2037,85.95
+Lactobacillus reuteri JCM 1112,Bacteria,1788.9,1707,1758,85.97
+Lactobacillus reuteri JCM 1112,Bacteria,1788.9,1707,1758,85.97
+Lactobacillus sakei sakei 23K,Bacteria,1884.7,1884,1968,88.73
+Lactobacillus salivarius UCC118,Bacteria,2134,2017,2116,84.39
+Lactococcus lactis cremoris SK11,Bacteria,2613.2,2628,2690,73.03
+Lactococcus lactis lactis Il1403,Bacteria,2365.6,2266,2346,85.88
+Legionella pneumophila Lens,Bacteria,3345.7,2947,2999,88.58
+Legionella pneumophila Paris,Bacteria,3503.6,3082,3134,88.41
+Legionella pneumophila Philadelphia 1,Bacteria,3397.8,2942,2997,88.67
+Leifsonia xyli xyli CTCB07,Bacteria,2584.2,2030,2078,70.42
+Leptospira interrogans serovar Copenhageni Fiocruz,Bacteria,4627.4,3658,3700,74.98
+Leptospira interrogans serovar Lai 56601,Bacteria,4691.2,4725,4766,78.18
+Leuconostoc mesenteroides ATCC 8293,Bacteria,1976.6,1869,1921,85.68
+Listeria innocua Clip11262,Bacteria,3093.1,3061,3145,89.97
+Listeria monocytogenes 4b F2365,Bacteria,2905.3,2821,2906,89.43
+Listeria monocytogenes EGD-e,Bacteria,2944.5,2855,2940,90.22
+Listeria monocytogenes str. 1/2a F6854,Bacteria,2950.3,2967,3052,89.53
+Listeria monocytogenes str. 4b H7858,Bacteria,2972.3,3111,3191,89.65
+Lyngbya aestuarii,Bacteria,7037.5,2505,6142,87.36
+Magnetococcus sp. MC-1,Bacteria,4628.7,3718,3770,86.1
+Magnetospirillum magneticum AMB-1,Bacteria,4967.1,4559,4763,88.36
+Magnetospirillum magnetotacticum MS-1,Bacteria,4503.3,4306,4357,89.72
+Mannheimia succiniciproducens MBEL55E,Bacteria,2314.1,2384,2463,90.81
+Marinobacter aquaeolei VT8,Bacteria,4648,4158,4210,89.7
+Mesoplasma florum L1,Bacteria,793.2,683,716,94.19
+Mesorhizobium loti MAFF303099,Bacteria,7596.3,7281,7341,85.91
+Mesorhizobium sp. BNC1,Bacteria,4978,4480,4537,87.93
+Methylobacillus flagellatus KT,Bacteria,2851.3,2505,2553,87.36
+Methylobacillus flagellatus KT,Bacteria,2971.5,2759,2811,90.73
+Methylococcus capsulatus Bath,Bacteria,3304.6,2959,3011,89.6
+Moorella thermoacetica ATCC 39073,Bacteria,2628.8,2523,2577,87.86
+Mycobacterium avium paratuberculosis k10,Bacteria,4829.8,4350,4399,91.51
+Mycobacterium bovis AF2122/97,Bacteria,4345.5,3953,4002,91.05
+Mycobacterium leprae TN,Bacteria,3268.2,2720,2768,76.87
+Mycobacterium sp. JLS ,Bacteria,6048.4,5739,5845,92
+Mycobacterium tuberculosis CDC1551,Bacteria,4403.8,4189,4238,90.37
+Mycobacterium tuberculosis H37Rv,Bacteria,4411.5,3999,4047,91.09
+Mycoplasma gallisepticum R,Bacteria,996.4,726,765,88.43
+Mycoplasma genitalium G-37,Bacteria,580.1,480,519,91.47
+Mycoplasma hyopneumoniae 232,Bacteria,892.8,691,724,90.51
+Mycoplasma hyopneumoniae 7448,Bacteria,920.1,663,726,86.69
+Mycoplasma hyopneumoniae J,Bacteria,897.4,665,728,88.41
+Mycoplasma mobile 163K,Bacteria,777.1,635,666,91.64
+Mycoplasma mycoides SC PG1,Bacteria,1211.7,1016,1052,82.45
+Mycoplasma penetrans HF-2,Bacteria,1358.6,1037,1072,89.09
+Mycoplasma pneumoniae M129,Bacteria,816.4,688,728,88.69
+Mycoplasma pulmonis UAB CTIP,Bacteria,963.9,782,814,90.73
+Mycoplasma synoviae 53,Bacteria,799.5,672,747,90.64
+Neisseria gonorrhoeae FA 1090,Bacteria,2153.9,2002,2069,79.15
+Neisseria meningitidis MC58,Bacteria,2272.4,2025,2097,78.7
+Neisseria meningitidis Z2491,Bacteria,2184.4,2121,2191,83.79
+Neorickettsia sennetsu Miyayama,Bacteria,859,932,968,88.02
+Nitrobacter hamburgensis X14,Bacteria,5010.3,4669,4728,83.19
+Nitrobacter hamburgensis X14,Bacteria,5011.5,4673,4731,83.91
+Nitrobacter winogradskyi Nb-255,Bacteria,3402.1,3143,3195,84.9
+Nitrosococcus oceani ATCC 19707,Bacteria,3522.1,3132,3183,86.77
+Nitrosomonas europaea ATCC 19718,Bacteria,2812.1,2574,2619,88.49
+Nitrosomonas eutropha C71,Bacteria,2712,2544,2588,86.73
+Nitrosospira multiformis ATCC25196,Bacteria,3234.3,2827,2873,85.64
+Nocardia farcinica IFM 10152,Bacteria,6292.3,5936,5999,90.34
+Nocardioides sp. JS614,Bacteria,5394.1,4902,4954,89.35
+Nostoc punctiforme PCC73102,Bacteria,9059.2,7364,7465,80.91
+Nostoc sp. PCC 7120,Bacteria,7000,5366,5430,82
+Novosphingobium aromaticivorans DSM 12444,Bacteria,4226.6,3765,3823,90.79
+Novosphingobium aromaticivorans DSM 12444,Bacteria,3561.6,3338,3404,92.2
+Oceanicaulis alexandrii HTCC2633,Bacteria,3168.2,3029,3077,90.53
+Oceanobacillus iheyensis HTE831,Bacteria,3630.5,3496,3588,85.38
+Oenococcus oeni PSU-1,Bacteria,1782.8,1788,1834,84.14
+Onion yellows phytoplasma OY-M,Bacteria,860.6,754,792,74.08
+Parachlamydia sp. UWE25,Bacteria,2414.5,2031,2075,82.75
+Paracoccus denitrificans PD1222,Bacteria,5175.7,5101,5157,91.75
+Pasteurella multocida subsp. multocida Pm70,Bacteria,2257.5,2014,2090,90.34
+Pediococcus pentosaceus ATCC25745,Bacteria,1814.6,1660,1722,86.08
+Pelagibacter ubique HTCC1062,Bacteria,1308.8,1354,1406,96.06
+Pelobacter carbinolicus DSM 2380,Bacteria,3662.3,3145,3205,86.72
+Pelobacter propionicus DSM 2379,Bacteria,4466.7,3828,3896,83.47
+Pelodictyon luteolum DSMZ 273
+Pelodictyon phaeoclathratiforme BU-1,Bacteria,3000.2,2762,2814,86.28
+Photobacterium profundum SS9,Bacteria,6403.3,5480,5697,82.65
+Photorhabdus luminescens laumondii TTO1,Bacteria,5689,4905,5012,84.24
+Polaromonas naphthalenivorans CJ2,Bacteria,5340.2,4973,5022,88.9
+Polaromonas sp. JS666,Bacteria,5912.3,5662,5709,88.97
+Polaromonas sp. JS666,Bacteria,5898.7,5569,5616,88.6
+Porphyromonas gingivalis W83,Bacteria,2343.5,1909,1974,83.33
+Prochlorococcus marinus MED4,Bacteria,1658,1716,1756,88.48
+Prochlorococcus marinus MIT 9313,Bacteria,2410.9,2273,2324,82.28
+Prochlorococcus marinus str. MIT 9211,Bacteria,1839,2123,2168,89
+Prochlorococcus marinus str. MIT 9301 ,Bacteria,1641.9,1907,1963,90
+Prochlorococcus marinus str. MIT 9303,Bacteria,2682.7,2997,3136,84
+Prochlorococcus marinus str. MIT 9312,Bacteria,1709,1809,1855,89
+Prochlorococcus marinus str. NATL2A,Bacteria,1843,1890,1938,85
+Prochlorococcus marinus subsp. marinus CCMP1375,Bacteria,1751.1,1882,1926,89.13
+Prochlorococcus marinus subsp. marinus str. SS120 
+Prochlorococcus marinus subsp. pastoris str. CCMP1986(MED4) ,Bacteria,1668,1712,1760,87
+Prochlorococcus sp. CC9902 
+Propionibacterium acnes KPA171202,Bacteria,2560.3,2297,2351,89.87
+Prosthecochloris aestuarii SK413,Bacteria,2563.2,2315,2359,87.41
+Pseudoalteromonas atlantica T6c,Bacteria,5095,4231,4297,86.68
+Pseudoalteromonas haloplanktis TAC 125,Bacteria,3850.3,3487,3621,88.39
+Pseudomonas aeruginosa PAO1,Bacteria,6264.4,5566,5642,89.59
+Pseudomonas aeruginosa UCBPP-PA14,Bacteria,6524.1,5688,5754,85.93
+Pseudomonas fluorescens Pf-5,Bacteria,7074.9,6137,6295,89.06
+Pseudomonas fluorescens PfO-1,Bacteria,6438.4,5745,5837,90.42
+Pseudomonas putida F1,Bacteria,5925.1,5251,5341,89.13
+Pseudomonas putida KT2440,Bacteria,6181.9,5350,5445,87.19
+Pseudomonas syringae B728a,Bacteria,6093.7,5137,5217,88.5
+Pseudomonas syringae phaseolicola 1448A,Bacteria,6112.4,5170,5312,84.15
+Pseudomonas syringae pv. tomato DC3000,Bacteria,6538.3,5608,5688,85.38
+Psychrobacter arcticum 273-4,Bacteria,2650.7,2147,2208,82.06
+Psychrobacter cryohalolentis K5,Bacteria,3081.1,2485,2538,83.08
+Psychrobacter cryohalolentis K5,Bacteria,3101.1,2515,2575,83.8
+Psychrobacter sp. PRwf-1,Bacteria,2953.1,2350,2394,83.77
+Ralstonia solanacearum GMI1000,Bacteria,5810.9,5120,5189,87.78
+Rhizobium etli CFN 42,Bacteria,4382,4043,4126,91.89
+Rhizobium etli CFN 42,Bacteria,6159,5627,5686,86.42
+Rhodobacter sphaeroides 2.4.1,Bacteria,4603.1,4304,4367,88.28
+Rhodobacter sphaeroides ATCC 17025,Bacteria,4479.4,4248,4296,88.68
+Rhodobacter sphaeroides ATCC 17029,Bacteria,4462,3971,4019,88.28
+Rhodobacter sphaeroides ATCC 17029 
+Rhodoferax ferrireducens DSM 15236,Bacteria,4926.7,4378,4427,88.56
+Rhodoferax ferrireducens DSM 15236,Bacteria,4969.8,4495,4546,90.32
+Rhodopirellula baltica SH 1,Bacteria,7145.6,7321,7403,94.95
+Rhodopirellula baltica SH1,Bacteria,7146,7325,7404,94
+Rhodopseudomonas palustris BisA53,Bacteria,5502.4,4913,4969,86.33
+Rhodopseudomonas palustris BisB18,Bacteria,5505,4949,5007,86.01
+Rhodopseudomonas palustris BisB18,Bacteria,5513.8,4943,4999,86.23
+Rhodopseudomonas palustris BisB5,Bacteria,4890.4,4385,4443,87.09
+Rhodopseudomonas palustris BisB5,Bacteria,4892.7,4418,4475,87.24
+Rhodopseudomonas palustris CGA009,Bacteria,5467.6,4840,4897,87.53
+Rhodopseudomonas palustris HaA2,Bacteria,5331.5,4683,4736,87.62
+Rhodopseudomonas palustris HaA2,Bacteria,5331.7,4712,4765,87.58
+Rhodoseudomonas palustris CGA009,Bacteria,5459,4813,4891,87
+Rhodospirillum rubrum ATCC 11170,Bacteria,4406.6,3850,3917,88.82
+Rickettsia akari Hartford,Bacteria,1231.1,1217,1253,77.43
+Rickettsia bellii RML369-C,Bacteria,1522.1,1429,1466,85.39
+Rickettsia conorii Malish 7,Bacteria,1268.8,1374,1410,80.84
+Rickettsia felis URRWXCal2,Bacteria,1587.2,1512,1548,83.82
+Rickettsia prowazekii Madrid E,Bacteria,1111.5,834,870,76.03
+Rickettsia rickettsii,Bacteria,1257.7,1311,1346,78.5
+Rickettsia sibirica 246,Bacteria,1250,1234,1270,78.13
+Rickettsia typhi Wilmington,Bacteria,1111.5,838,874,75.92
+Roseovarius nubinhibens ISM,Bacteria,3668.7,3547,3597,89.58
+Rubrivivax gelatinosus PM1,Bacteria,4643.7,4475,4548,91.89
+Rubrobacter xylanophilus DSM 9941,Bacteria,3299.4,2990,3039,86.62
+Saccharophagus degradans 2-40,Bacteria,5057.5,4017,4064,87.03
+Saccharophagus degradans 2-40,Bacteria,5057.5,4017,4064,86.99
+Saccharopolyspora erythraea NRRL 2338 ,Bacteria,8212.8,7191,7264,84
+Salinibacter ruber DSM 13855,Bacteria,3587.3,2833,2880,84.88
+Salmonella enterica choleraesuis SC-B67,Bacteria,4944,4666,4773,84.26
+Salmonella enterica CT18,Bacteria,4809,4395,4711,83
+Salmonella enterica Paratyphi-A SARB42,Bacteria,4585.2,4093,4197,83.22
+Salmonella enterica Typhi CT18,Bacteria,5133.7,4980,5082,88.07
+Salmonella enterica Typhi Ty2,Bacteria,4792,4323,4423,83.08
+Salmonella typhimurium LT2,Bacteria,4951.4,4554,4692,87.28
+Shewanella amazonensis SB2B,Bacteria,4264.5,3577,3702,87.83
+Shewanella baltica OS155,Bacteria,5084.3,4334,4458,82.56
+Shewanella baltica OS155 
+Shewanella denitrificans OS217,Bacteria,4491.5,3722,3840,84.27
+Shewanella denitrificans OS217,Bacteria,4545.9,3778,3896,85.68
+Shewanella frigidimarina NCMB400,Bacteria,4782.4,4002,4124,84.41
+Shewanella loihica PV-4,Bacteria,4602.6,3859,3993,85
+Shewanella oneidensis MR-1,Bacteria,5131.4,4778,4908,83.89
+Shewanella putrefaciens CN-32,Bacteria,4577.7,3981,4095,85.15
+Shewanella sp. ANA-3 ,Bacteria,5100.7,4241,4353,85.99
+Shewanella sp. MR-4 ,Bacteria,4579.2,3852,3928,85.44
+Shewanella sp. MR-7,Bacteria,4546.4,3824,3920,85.56
+Shewanella sp. PV-4,Bacteria,4474.5,3704,3811,85.72
+Shewanella sp. W3-18-1,Bacteria,4754,4117,4241,84.35
+Shigella boydii sv4 Sb227,Bacteria,4646.5,4290,4403,81.1
+Shigella dysenteriae sv1 Sd197,Bacteria,4552,4500,4607,77.88
+Shigella flexneri 2a 2457T,Bacteria,4599.4,4073,4195,78.05
+Shigella flexneri 2a 301,Bacteria,4828.8,4703,4822,86.98
+Shigella sonnei Ss046,Bacteria,5039.7,4462,4581,81.02
+Silicibacter pomeroyi DSS-3,Bacteria,4601.1,4252,4314,89.92
+Silicibacter sp. TM1040,Bacteria,4198.3,3860,3932,88.15
+Sinorhizobium meliloti 1021,Bacteria,6691.7,6205,6270,86.25
+Sinorhizobium meliloti 1021,Bacteria,6691.7,6205,6269,86.25
+Solibacter usitatus Ellin6076,Bacteria,9949.9,8098,8157,90.92
+Sphingopyxis alaskensis RB2256,Bacteria,3343.4,3199,3247,91.37
+Staphylococcus aureus bovine RF122,Bacteria,2742.5,2589,2665,84.81
+Staphylococcus aureus COL,Bacteria,2813.9,2618,2690,83.69
+Staphylococcus aureus JH1,Bacteria,2879.6,2681,2737,83.69
+Staphylococcus aureus JH9,Bacteria,2862.9,2673,2674,83.53
+Staphylococcus aureus MRSA252,Bacteria,2902.6,2744,2820,84.79
+Staphylococcus aureus MSSA476,Bacteria,2820.5,2643,2722,84.81
+Staphylococcus aureus Mu50,Bacteria,2903.6,2733,2809,84.59
+Staphylococcus aureus MW2,Bacteria,2841.1,2659,2738,84.6
+Staphylococcus aureus N315,Bacteria,2839.5,2624,2702,84.36
+Staphylococcus aureus NCTC 832,Bacteria,2821.4,2892,2969,85.71
+Staphylococcus aureus USA300,Bacteria,2917.5,2604,2673,82.94
+Staphylococcus epidermidis ATCC 12228,Bacteria,2564.6,2485,2561,84.13
+Staphylococcus epidermidis RP62A,Bacteria,2643.8,2526,2606,83.7
+Staphylococcus haemolyticus JCSC1435,Bacteria,2685,2678,2813,86.93
+Staphylococcus saprophyticus saprophyticus ATCC 15305,Bacteria,2577.9,2514,2595,84.7
+Streptococcus agalactiae 2603V/R,Bacteria,2160.3,2124,2225,88.14
+Streptococcus agalactiae Ia A909,Bacteria,2127.8,1996,2097,87.85
+Streptococcus agalactiae NEM316,Bacteria,2211.5,2134,2235,90.17
+Streptococcus mutans UA159,Bacteria,2030.9,1960,2040,87.06
+Streptococcus pneumoniae R6,Bacteria,2038.6,2043,2113,87.57
+Streptococcus pneumoniae TIGR4,Bacteria,2160.8,2094,2164,83.54
+Streptococcus pyogenes M1 GAS,Bacteria,1852.4,1696,1774,85.34
+Streptococcus pyogenes M1 MGAS5005,Bacteria,1838.6,1865,2017,88.22
+Streptococcus pyogenes M28 MGAS6180,Bacteria,1897.6,1894,2044,88.48
+Streptococcus pyogenes MGAS10394,Bacteria,1899.9,1886,1973,88.65
+Streptococcus pyogenes MGAS315,Bacteria,1900.5,1865,1946,87.23
+Streptococcus pyogenes MGAS8232,Bacteria,1895,1845,1930,86.7
+Streptococcus pyogenes SSI-1,Bacteria,1894.3,1861,1930,86.13
+Streptococcus suis 89/1591,Bacteria,1978.2,1896,1938,86.1
+Streptococcus thermophilus CNRZ 1066,Bacteria,1796.2,1915,2000,85.47
+Streptococcus thermophilus LMD-9,Bacteria,1842.1,1850,1919,76.15
+Streptococcus thermophilus LMG 18311,Bacteria,1796.8,1889,1974,85.52
+Streptomyces avermitilis MA-4680,Bacteria,9119.9,7673,7761,86.39
+Streptomyces coelicolor A3
+Sulfitobacter sp. EE-36,Bacteria,3547.2,3474,3529,90.89
+Sulfitobacter sp. NAS-14.1,Bacteria,4002.1,3962,4014,89.92
+Symbiobacterium thermophilum IAM 14863,Bacteria,3566.1,3337,3454,88.01
+Synechococcus elongatus BP-1,Bacteria,2593.9,2475,2520,89.8
+Synechococcus elongatus PCC7942,Bacteria,2695,2611,2664,88
+Synechococcus sp. CC9605,Bacteria,2511,2638,2749,86
+Synechococcus sp. CC9902,Bacteria,2235,2304,2355,89
+Synechococcus sp. JA-2-3B'a
+Synechococcus sp. JA-3-3Ab,Bacteria,2933,2760,2897,84
+Synechococcus sp. PCC 6301,Bacteria,2696.3,2525,2576,87.98
+Synechococcus sp. RS9917,Bacteria,2580,2770,2820,92
+Synechococcus sp. WH 5701,Bacteria,3043,3346,3401,87
+Synechococcus sp. WH 7805,Bacteria,2620,2883,2394,90
+Synechococcus sp. WH8102,Bacteria,2434.4,2526,2576,90.45
+Synechocystis sp. PCC 6803,Bacteria,3947,3564,3614,86.69
+Syntrophobacter fumaroxidans MPOB,Bacteria,4848.8,4031,4084,82.96
+Syntrophomonas wolfei Goettingen,Bacteria,2845.8,2466,2524,83.33
+Syntrophus aciditrophicus,Bacteria,3179.3,3168,3219,88.68
+Thermoanaerobacter ethanolicus 39E,Bacteria,2282.7,2254,2311,87.84
+Thermoanaerobacter tengcongensis MB4,Bacteria,2689.4,2588,2652,87.42
+Thermobifida fusca YX,Bacteria,3642.2,3117,3182,85.74
+Thermotoga maritima MSB8,Bacteria,1860.7,1846,1895,93.88
+Thermus thermophilus HB27,Bacteria,2127.5,2210,2263,94.77
+Thermus thermophilus HB8,Bacteria,1859.1,1988,2042,95.7
+Thiobacillus denitrificans sp. ATCC 25259,Bacteria,2909.8,2827,2876,92.78
+Thiomicrospira crunogena XCL-2,Bacteria,2427.7,2201,2254,90.63
+Thiomicrospira denitrificans ATCC 33889,Bacteria,2201.6,2104,2160,93.8
+Treponema denticola ATCC 35405,Bacteria,2843.2,2767,2817,91.93
+Treponema pallidum Nichols,Bacteria,1138,1031,1082,93.15
+Trichodesmium erythraeum IMS101,Bacteria,8191.4,4759,4801,58.12
+Tropheryma whipplei TW08/27,Bacteria,925.9,784,838,85.61
+Tropheryma whipplei Twist,Bacteria,927.3,808,861,86.34
+Ureaplasma parvum serovar 3 ATCC 700970,Bacteria,751.7,611,647,92.43
+Vibrio cholerae O1 biovar eltor N16961,Bacteria,4033.5,3828,3951,87.42
+Vibrio fischeri ES114,Bacteria,4238.2,3747,3903,87.95
+Vibrio parahaemolyticus RIMD 2210633,Bacteria,5165.8,4832,4992,87.86
+Vibrio vulnificus CMCP6,Bacteria,5126.8,4537,4676,85.73
+Vibrio vulnificus YJ016,Bacteria,5260.1,5028,5168,89.25
+Wigglesworthia glossinidia endosymbiont of Glossina,Bacteria,697.7,611,651,88.47
+Wolbachia endosymbiont of Drosophila ananassae,Bacteria,1440.8,1802,1833,75.78
+Wolbachia endosymbiont of Drosophila simulans,Bacteria,1063.1,760,782,65.02
+Wolbachia endosymbiont strain TRS of Brugia malayi,Bacteria,1080.1,805,842,67.6
+Wolbachia pipientis wMel,Bacteria,1267.8,1195,1232,80.59
+Wolinella succinogenes DSM 1740,Bacteria,2110.4,2044,2090,94.46
+Xanthobacter autotrophicus Py2,Bacteria,5580.9,5041,5042,88.19
+Xanthomonas axonopodis citri 306,Bacteria,5274.2,4427,4487,86.01
+Xanthomonas campestris campestris 8004,Bacteria,5148.7,4273,4389,84.89
+Xanthomonas campestris campestris ATCC 33913,Bacteria,5076.2,4181,4241,84.8
+Xanthomonas campestris vesicatoria 85-10,Bacteria,5420.2,4726,4786,87.35
+Xanthomonas oryzae KACC10331,Bacteria,4941.4,4637,4697,85.98
+Xanthomonas oryzae MAFF 311018,Bacteria,4940.2,4372,4431,84.15
+Xylella fastidiosa 9a5c,Bacteria,2731.8,2832,2888,83.64
+Xylella fastidiosa Ann-1,Bacteria,2622.3,2359,2411,80.73
+Xylella fastidiosa Dixon,Bacteria,5118.9,4662,4757,79.14
+Xylella fastidiosa Temecula1,Bacteria,2521.1,2036,2091,78.32
+Yersinia pestis biovar Medievalis 91001,Bacteria,4803.2,4142,4237,82.08
+Yersinia pestis CO92,Bacteria,4829.9,4217,4307,84.23
+Yersinia pestis KIM,Bacteria,4600.8,4090,4187,83.19
+Yersinia pseudotuberculosis IP 32953,Bacteria,4840.9,4116,4226,84.27
+Zymomonas mobilis ZM4,Bacteria,2056.4,1998,2086,86.72
+Aeropyrum pernix K1,Archaea,1669.7,2694,2751,89.17
+Aeropyrum pernix K1,Archaea,1669.7,2763,2815,90.44
+Archaeoglobus fulgidus DSM 4304,Archaea,2178.4,2407,2456,91.2
+Archaeoglobus fulgidus VC-16,Archaea,2178.4,2466,2515,93.62
+Cenarchaeum symbiosum,Archaea,2023.7,2011,2059,91.52
+Ferroplasma acidarmanus fer1,Archaea,1971.4,1695,1742,80.26
+Haloarcula marismortui ATCC 43049,Archaea,4274.6,4240,4300,84.96
+Haloarcula marismortui ATCC 43049,Archaea,4274.6,4322,4382,86.39
+Halobacterium salinarium NRC-1,Archaea,2571,2675,2726,87.41
+Halobacterium salinarum NRC-1,Archaea,2571,2605,2657,85.2
+Methanobacterium thermoautotrophicum Delta H,Archaea,1751.4,1846,1891,91.12
+Methanocaldococcus jannaschii DSM 2661,Archaea,1739.9,1770,1813,87.23
+Methanocaldococcus jannaschii DSM 2661,Archaea,1739.9,1789,1832,88.75
+Methanococcoides burtonii DSM 6242,Archaea,2575,2434,2495,85.69
+Methanococcoides burtonii DSM6242,Archaea,2597.4,2490,2551,84.21
+Methanococcus maripaludis C5 ,Archaea,1780.8,1813,1880,86
+Methanococcus maripaludis S2,Archaea,1661.1,1722,1770,89.87
+Methanococcus maripaludis S2,Archaea,1661.1,1732,1780,90.03
+Methanoculleus marisnigri,Archaea,2460.2,2418,2466,87.51
+Methanoculleus marisnigri JR1 ,Archaea,2478.1,2489,2555,87
+Methanopyrus kandleri AV19,Archaea,1695,1691,1734,89.09
+Methanopyrus kandleri AV19,Archaea,1695,1727,1765,90.24
+Methanosarcina acetivorans C2A,Archaea,5751.5,4540,4609,74.28
+Methanosarcina acetivorans C2A,Archaea,5751.5,4721,4731,76.77
+Methanosarcina barkeri Fusaro,Archaea,4873.8,3759,3830,71.46
+Methanosarcina mazei Go1,Archaea,4096.3,3371,3438,75.83
+Methanosarcina mazei Go1,Archaea,4096.3,3398,3465,76.51
+Methanosphaera stadtmanae DSM 3091,Archaea,1767.4,1534,1586,85.2
+Methanospirillum hungatei JF-1,Archaea,3535,3307,3369,87.1
+Methanospiriilum hungatei JF-1,Archaea,3544.7,3238,3303,88.62
+Methanothermobacter thermautotrophicus Delta H,Archaea,1751.4,1869,1915,90.91
+Methaosaeta thermophila PT,Archaea,1861.6,1718,1761,84.05
+Nanoarchaeum equitans Kin4-M,Archaea,490.9,536,579,93.39
+Nanoarchaeum equitans Kin4-M,Archaea,490.9,556,573,93.07
+Natronomonas pharaonis DSM 2160,Archaea,2749.7,2843,2892,90.61
+Picrophilus torridus DSM 9790,Archaea,1545.9,1535,1628,91.92
+Picrophilus torridus DSM 9790,Archaea,1545.9,1551,1598,92.41
+Pyrobaculum aerophilum IM2,Archaea,2222.4,2605,2655,88.78
+Pyrobaculum aerophilum IM2,Archaea,2222.4,2575,2614,89.24
+Pyrobaculum calidifontis JCM 11548,Archaea,2009.3,2149,2200,90
+Pyrococcus abyssi GE5,Archaea,1765.1,1784,1881,92.04
+Pyrococcus abyssi GE5,Archaea,1768.6,1904,1955,93.78
+Pyrococcus furiosus DSM 3638,Archaea,1908.3,2065,2115,91.38
+Pyrococcus furiosus DSM 3638,Archaea,1908.3,2069,2171,92.66
+Pyrococcus horikoshii OT3,Archaea,1738.5,2061,2112,91.07
+Pyrococcus horikoshii OT3,Archaea,1738.5,2196,2297,93.31
+Staphylothermus marinus F1 ,Archaea,1570.5,1570,1646,86
+Sulfolobus acidocaldarius DSM 639,Archaea,2226,2223,2322,85.31
+Sulfolobus acidocaldarius DSM 639,Archaea,2226,2285,2336,87.67
+Sulfolobus solfataricus P2,Archaea,2992.2,2994,3050,84.32
+Sulfolobus solfataricus P2,Archaea,2992.2,3048,3104,86.43
+Sulfolobus tokodaii 7,Archaea,2694.8,2826,2878,83.36
+Sulfolobus tokodaii str. 7,Archaea,2694.8,2915,2964,85.52
+Thermococcus kodakaraensis KOD1,Archaea,2088.7,2306,2358,92.05
+Thermococcus kodakaraensis KOD1,Archaea,2088.7,2297,2349,92.09
+Thermofilum pendens ,Archaea,1811.4,1892,1932,90.99
+Thermoplasma acidophilum DSM 1728,Archaea,1564.9,1478,1549,87.02
+Thermoplasma acidophilum DSM 1728,Archaea,1564.9,1527,1575,88.51
+Thermoplasma volcanium GSS1,Archaea,1584.8,1526,1575,86.19
+Thermoplasma volcanium GSS1,Archaea,1584.8,1561,1610,88.26
+Acholeplasma phage L2,Virus,12,14,14,81.31
+Acholeplasma phage MV-L1,Virus,4.5,4,4,46.6
+Actinoplanes phage phiAsp2,Virus,58.6,76,76,92.23
+Aeromonas phage 31,Virus,173,247,263,92.84
+Bacillus clarkii bacteriophage BCJA1c,Virus,41.1,58,58,92.66
+Bacillus phage GA-1,Virus,21.1,35,35,92.46
+Bacillus phage phi29,Virus,19.4,27,27,93.88
+Bacillus thuringiensis bacteriophage Bam35c,Virus,14.9,32,32,93.49
+Bacillus thuringiensis phage GIL16c,Virus,14.8,31,31,94.09
+Bacteriophage 11b,Virus,36.1,65,65,90.15
+Bacteriophage 187,Virus,39.6,77,77,93.55
+Bacteriophage 2638A,Virus,41.3,57,57,92.68
+Bacteriophage 29,Virus,42.8,75,75,92.15
+Bacteriophage 37,Virus,43.7,77,77,95.58
+Bacteriophage 3A,Virus,43.1,67,67,93.95
+Bacteriophage 42e,Virus,45.9,79,79,93.38
+Bacteriophage 44RR2.8t,Virus,173.6,252,269,93.28
+Bacteriophage 47,Virus,44.8,72,72,93.99
+Bacteriophage 52A,Virus,41.7,65,65,91.64
+Bacteriophage 53,Virus,43.9,79,79,93.42
+Bacteriophage 55,Virus,41.9,77,77,93.37
+Bacteriophage 66,Virus,18.2,27,27,91.85
+Bacteriophage 69,Virus,42.7,76,76,93.02
+Bacteriophage 71,Virus,43.1,72,72,94.55
+Bacteriophage 77,Virus,41.7,69,69,92.12
+Bacteriophage 85,Virus,44.3,78,78,91.8
+Bacteriophage 88,Virus,43.2,72,72,94.35
+Bacteriophage 92,Virus,42.4,74,74,95.17
+Bacteriophage 933W,Virus,61.7,80,83,88.07
+Bacteriophage 96,Virus,43.6,79,79,91.98
+Bacteriophagie A118,Virus,40.8,72,72,94.19
+Bacteriophage Aaphi23,Virus,43,66,66,92.42
+Bacteriophage Aeh1,Virus,233.2,352,377,94.04
+Bacteriophage AP205,Virus,4.3,4,4,90.96
+Bacteriophage B103,Virus,18.6,17,17,84.76
+Bacteriophage B3,Virus,38.4,59,59,97.13
+Bacteriophage bIL170,Virus,31.8,64,65,91.44
+Bacteriophage bIL285,Virus,35.5,62,62,93.03
+Bacteriophage bIL286,Virus,41.8,61,61,93.09
+Bacteriophage bIL309,Virus,36.9,56,56,89.47
+Bacteriophage bIL310,Virus,15,29,29,77.29
+Bacteriophage bIL311,Virus,14.5,22,23,61.98
+Bacteriophage bIL312,Virus,15.2,27,28,75.55
+Bacteriophage D3112,Virus,37.6,55,55,93.84
+Bacteriophage EJ-1,Virus,42.9,73,73,92.25
+Bacteriophage EW,Virus,45.3,77,77,92.04
+Bacteriophage Felix 01,Virus,86.2,247,269,92.91
+Bacteriophage G1,Virus,138.7,214,218,88.69
+Bacteriophage HK620,Virus,38.3,58,58,88.62
+Bacteriophage IN93,Virus,19.6,35,35,83.53
+Bacteriophage K139,Virus,33.1,44,44,92.1
+Bacteriophage KS7,Virus,40.8,56,56,74.94
+Bacteriophage KVP40,Virus,244.8,381,410,91.06
+Bacteriophage L-413C,Virus,30.7,40,40,93.17
+Bacteriophage L5,Virus,2.4,8,8,78.97
+Bacteriophage lambda,Virus,48.5,71,71,87.83
+Bacteriophage Mx8,Virus,49.5,86,86,93.4
+Bacteriophage P27,Virus,42.6,58,60,89.84
+Bacteriophage P4,Virus,11.6,14,14,84.25
+Bacteriophage phBC6A51,Virus,61.4,75,75,82.74
+Bacteriophage phBC6A52,Virus,38.5,49,49,80.07
+Bacteriophage phi AT3,Virus,39.2,55,55,89.65
+Bacteriophage phi CTX,Virus,35.6,47,47,91.27
+Bacteriophage phi ETA,Virus,43.1,66,66,92.79
+Bacteriophage phi JL001,Virus,63.6,90,90,95.32
+Bacteriophage phi LC3,Virus,32.2,51,51,92.46
+Bacteriophage phi1026b,Virus,54.9,83,83,94
+Bacteriophage phi-105,Virus,39.3,51,51,89.23
+Bacteriophage phi-12,Virus,13.2,15,15,85.87
+Bacteriophage phi3626,Virus,33.5,50,50,92.54
+Bacteriophage phi-8,Virus,15,16,16,89.33
+Bacteriophage phi-BT1,Virus,41.8,55,58,88.36
+Bacteriophage phi-C31,Virus,41.5,53,55,90.01
+Bacteriophage phiE125,Virus,53.4,71,71,89.7
+Bacteriophage phig1e,Virus,42.3,50,52,76.25
+Bacteriophage phiKMV,Virus,42.5,48,48,90.81
+Bacteriophage phiKO2,Virus,51.6,64,64,92.5
+Bacteriophage phiMFV1,Virus,15.1,17,17,91.61
+Bacteriophage phiYeO3-12,Virus,39.6,59,59,91.36
+Bacteriophage PSP3,Virus,30.6,42,42,91.69
+Bacteriophage PT1028,Virus,15.6,22,22,77.42
+Bacteriophage PY54,Virus,46.3,67,67,89.84
+Bacteriophage r1t,Virus,33.3,50,50,91.26
+Bacteriophage RM 378,Virus,129.9,146,147,93.44
+Bacteriophage ROSA,Virus,43.2,74,74,92.86
+Bacteriophage sk1,Virus,28.5,56,57,89.53
+Bacteriophage SPBc2,Virus,134.4,185,185,86.22
+Bacteriophage S-PM2,Virus,196.3,239,264,94.01
+Bacteriophage SPP1,Virus,44,106,106,92.53
+Bacteriophage Tuc2009,Virus,38.3,56,56,92.12
+Bacteriophage Vf12,Virus,8,7,7,55.02
+Bacteriophage Vf33,Virus,8,7,7,55.02
+Bacteriophage VfO3K6,Virus,8.8,10,10,79.52
+Bacteriophage VfO4K68,Virus,6.9,8,8,77.62
+Bacteriophage VSKK,Virus,6.8,6,6,49.49
+Bacteriophage VT2-Sa,Virus,60.9,83,86,88.79
+Bacteriophage VWB,Virus,49.2,61,61,82.15
+Bacteriophage WPhi,Virus,32.7,44,44,92.64
+Bacteriophage X2,Virus,43.4,77,77,92.85
+Bordetella phage BIP-1,Virus,42.6,48,48,95.65
+Bordetella phage BMP-1,Virus,42.7,47,47,94.84
+Bordetella phage BPP-1,Virus,42.5,49,49,96.37
+Burkholderia cenocepacia phage Bcep1,Virus,48.2,71,71,91.74
+Burkholderia cenocepacia phage BcepB1A,Virus,47.4,58,58,89.26
+Burkholderia cenocepacia phage BcepMu,Virus,36.7,53,53,94.23
+Burkholderia cepacia complex phage BcepC6B,Virus,42.4,46,46,92.67
+Burkholderia cepacia phage Bcep22,Virus,63.9,78,79,91.44
+Burkholderia cepacia phage Bcep43,Virus,48,65,66,92.81
+Burkholderia cepacia phage Bcep781,Virus,48.2,66,67,92.83
+Burkholderia cepacia phage BcepNazgul,Virus,58.1,75,75,90.26
+Chlamydia phage 2,Virus,4.6,8,8,90.29
+Chlamydia phage 3,Virus,4.6,8,8,89.09
+Chlamydia pneumoniae phage CPAR39,Virus,4.5,7,7,87.51
+Chlamydia psittaci bacteriophage chp1,Virus,4.9,12,12,68.59
+Coliphage alpha3,Virus,6.1,10,10,83.77
+Coliphage ID11,Virus,5.6,11,11,94.94
+Coliphage phiK,Virus,6.1,10,10,83.84
+Coliphage phiX174,Virus,5.4,11,11,95.08
+Cyanophage P60,Virus,47.9,80,80,81.71
+Cyanophage P-SSM2,Virus,252.4,329,330,94.73
+Cyanophage P-SSM4,Virus,178.2,198,198,92.61
+Cyanophage P-SSP7,Virus,45,53,53,88.76
+Ehux virus,Virus,407,472,477,81.71
+Enterobacteria phage 186,Virus,30.6,46,47,93.29
+Enterobacteria phage epsilon15,Virus,39.7,49,49,92.39
+Enterobacteria phage FI,Virus,4.3,4,4,95.42
+Enterobacteria phage fr,Virus,3.6,4,4,90.8
+Enterobacteria phage G4,Virus,5.6,11,11,94.94
+Enterobacteria phage GA,Virus,3.5,3,3,91.32
+Enterobacteria phage HK022,Virus,40.8,57,57,84.17
+Enterobacteria phage HK97,Virus,39.7,61,61,88.5
+Enterobacteria phage I2-2,Virus,6.7,9,9,66.73
+Enterobacteria phage If1,Virus,8.5,10,10,80.18
+Enterobacteria phage Ike,Virus,6.9,10,10,87.78
+Enterobacteria phage KU1,Virus,3.5,4,4,91.8
+Enterobacteria phage M13,Virus,6.4,10,10,83.28
+Enterobacteria phage Mu,Virus,36.7,55,55,94.77
+Enterobacteria phage N15,Virus,46.4,60,60,90.9
+Enterobacteria phage P1,Virus,94.8,110,113,87.2
+Enterobacteria phage P2,Virus,33.6,43,43,92.28
+Enterobacteria phage P22,Virus,41.7,72,72,89.78
+Enterobacteria phage PRD1,Virus,14.9,22,22,82.15
+Enterobacteria phage RB43,Virus,180.5,292,293,93.8
+Enterobacteria phage RB49,Virus,164,274,274,93.76
+Enterobacteria phage RB69,Virus,167.6,273,275,93.83
+Enterobacteria phage S13,Virus,5.4,12,12,96.47
+Enterobacteria phage Sf6,Virus,39,66,68,90.3
+Enterobacteria phage SP6,Virus,43.8,52,52,91.04
+Enterobacteria phage T1,Virus,48.8,78,78,91.24
+Enterobacteria phage T3,Virus,38.2,55,55,91.15
+Enterobacteria phage T4,Virus,168.9,278,286,94.49
+Enterobacteria phage T5,Virus,121.8,162,187,81.31
+Enterobacteria phage T7,Virus,39.9,60,60,92.02
+Enterobacterio phage MS2,Virus,3.6,4,4,90.95
+Enterobacteriophage Qbeta,Virus,4.2,4,4,95.3
+Guinea pig Chlamydia phage,Virus,4.5,9,9,85.03
+Haemophilus phage HP1,Virus,32.4,42,43,92.33
+Haemophilus phage HP2,Virus,31.5,37,38,90.88
+Halorubrum phage HF2,Virus,77.7,114,120,88.36
+Lactobacillus bacteriophage phi adh,Virus,43.8,63,63,90.68
+Lactobacillus casei bacteriophage A2,Virus,43.4,61,62,88.69
+Lactobacillus johnsonii prophage Lj928,Virus,38.4,50,51,90.46
+Lactobacillus johnsonii prophage Lj965,Virus,40.2,46,50,89.58
+Lactobacillus plantarum bacteriophage LP65,Virus,131.5,165,193,85.99
+Lactobacillus plantarum bacteriophage phiJL-1,Virus,36.7,46,47,85.23
+Lactococcus phage BK5-T,Virus,40,63,63,90.87
+Lactococcus phage c2,Virus,22.2,39,39,92.6
+Lactococcus phage P335,Virus,36.6,49,49,92.91
+Lactococcus phage TP901-1,Virus,37.7,56,57,92.6
+Lactococcus phage ul36,Virus,36.8,58,58,88.77
+Listeria phage 2389,Virus,37.6,59,60,90.66
+Listonella pelagia phage phiHSIC,Virus,38,47,47,87.65
+Methanobacterium phage psiM2,Virus,26.1,32,32,87.51
+Methanothermobacter wolfeii prophage psiM100,Virus,28.8,35,35,88.65
+Mycobacteria phage D29,Virus,49.1,79,84,91.43
+Mycobacteriophage PG1,Virus,69,100,100,94.25
+Mycobacterium phage Barnyard,Virus,70.8,109,109,94.43
+Mycobacterium phage Bxb1,Virus,50.6,86,86,90.41
+Mycobacterium phage Bxz1,Virus,156.1,225,254,91.52
+Mycobacterium phage Bxz2,Virus,50.9,86,89,91.2
+Mycobacterium phage Che8,Virus,59.5,112,112,94.8
+Mycobacterium phage Che9c,Virus,57.1,84,85,94.08
+Mycobacterium phage Che9d,Virus,56.3,111,111,94.71
+Mycobacterium phage Cjw1,Virus,75.9,141,143,93.03
+Mycobacterium phage Corndog,Virus,69.8,122,122,93.88
+Mycobacterium phage L5,Virus,52.3,85,88,88.13
+Mycobacterium phage Omega,Virus,110.9,237,239,93.95
+Mycobacterium phage Rosebush,Virus,67.5,90,90,95.26
+Mycobacterium phage TM4,Virus,52.8,89,89,91.91
+Mycoplasma arthritidis bacteriophage MAV1,Virus,15.6,15,15,90.23
+Propionibacterium phage phiB5,Virus,5.8,10,10,94.38
+Pseudoalteromonas phage PM2,Virus,10.1,22,22,92.82
+Pseudomonas aeruginosa bacteriophage PaP2,Virus,43.8,58,58,92.4
+Pseudomonas aeruginosa phage F116,Virus,65.2,70,70,92.91
+Pseudomonas aeruginosa phage PaP3,Virus,45.5,71,75,92.25
+Pseudomonas bacteriophage phi-13,Virus,13.7,13,13,84.44
+Pseudomonas phage D3,Virus,56.4,95,99,89.65
+Pseudomonas phage gh-1,Virus,37.4,42,42,93.26
+Pseudomonas phage Pf1,Virus,7.4,14,14,90.92
+Pseudomonas phage Pf3,Virus,5.8,9,9,92.78
+Pseudomonas phage phi-6,Virus,13.4,13,13,78.94
+Pseudomonas phage phiKZ,Virus,280.3,306,313,87.27
+Pseudomonas phage PP7,Virus,3.6,4,4,95.62
+Ralstonia phage p12J,Virus,7.1,10,10,77.19
+Roseophage SIO1,Virus,39.9,34,34,77.12
+Salmonella typhimurium bacteriophage ES18,Virus,46.9,79,79,91.68
+Salmonella typhimurium bacteriophage ST104,Virus,41.4,63,63,90.58
+Salmonella typhimurium bacteriophage ST64T,Virus,40.7,65,66,90.77
+Salmonella typhimurium phage ST64B,Virus,40.1,56,56,88.81
+Shigella flexneri bacteriophage V,Virus,37.1,53,53,92.67
+Sinorhizobium meliloti phage PBC5,Virus,57.4,83,83,89.76
+Spiroplasma phage 1-C74,Virus,7.8,13,13,79.72
+Spiroplasma phage 1-R8A2B,Virus,8.3,12,12,76.16
+Spiroplasma phage 4,Virus,4.4,9,9,82.29
+Staphylococcus aureus bacteriophage PVL,Virus,41.4,62,62,89.79
+Staphylococcus aureus phage phi 11,Virus,43.6,53,53,79.9
+Staphylococcus aureus phage phi 12,Virus,45,49,49,79.65
+Staphylococcus aureus phage phi 13,Virus,42.7,49,49,78.07
+Staphylococcus aureus phage phiP68,Virus,18.2,22,22,92.25
+Staphylococcus aureus prophage phiPV83,Virus,45.6,65,65,87.22
+Staphylococcus aureus temperate phage phiSLT,Virus,42.9,61,61,89.4
+Staphylococcus phage 44AHJD,Virus,16.8,21,21,91.56
+Staphylococcus phage K,Virus,127.4,115,119,78.68
+Staphylococcus phage phiN315,Virus,44.1,65,65,87.93
+Staphylococcus phage Twort,Virus,130.7,195,196,88.06
+Streptococcus mitis phage SM1,Virus,34.7,56,56,91.43
+Streptococcus phage C1,Virus,16.7,20,20,87.15
+Streptococcus phage Cp-1,Virus,19.3,28,28,86.41
+Streptococcus pneumoniae bacteriophage MM1,Virus,40.2,53,53,94.37
+Streptococcus pyogenes phage 315.1,Virus,39.5,56,56,87.42
+Streptococcus pyogenes phage 315.2,Virus,41.1,60,60,88.66
+Streptococcus pyogenes phage 315.3,Virus,34.4,52,52,90.96
+Streptococcus pyogenes phage 315.4,Virus,41.8,64,64,88.42
+Streptococcus pyogenes phage 315.5,Virus,38.2,55,55,86.96
+Streptococcus pyogenes phage 315.6,Virus,40,51,51,90.64
+Streptococcus thermophilus bacteriophage 2972,Virus,34.7,44,44,93.35
+Streptococcus thermophilus bacteriophage 7201,Virus,35.5,46,46,93.21
+Streptococcus thermophilus bacteriophage DT1,Virus,34.8,45,45,89.18
+Streptococcus thermophilus bacteriophage Sfi11,Virus,39.8,53,53,93.06
+Streptococcus thermophilus bacteriophage Sfi19,Virus,37.4,45,45,88.93
+Streptococcus thermophilus bacteriophage Sfi21,Virus,40.7,50,50,89.36
+Streptococcus thermophilus temperate bacteriophage O1205,Virus,43.1,57,57,92.89
+Stx1 converting bacteriophage,Virus,59.9,167,167,89.32
+Stx2 converting bacteriophage I,Virus,61.8,166,169,89.44
+Stx2 converting bacteriophage II,Virus,62.7,170,173,88.21
+Temperate phage phiNIH1.1,Virus,41.8,55,55,82.01
+Vibrio cholerae O139 fs1 phage,Virus,6.3,15,15,82.08
+Vibrio cholerae phage KSF-1phi,Virus,7.1,12,12,73.11
+Vibrio cholerae phage VGJphi,Virus,7.5,13,13,83.07
+Vibrio harveyi bacteriophage VHML,Virus,43.2,57,57,83.29
+Vibrio phage fs2,Virus,8.7,9,9,84.78
+Vibrio phage VP5,Virus,39.8,48,48,93.08
+Vibrio phage VSK,Virus,6.9,14,14,85.34
+Vibriophage VP2,Virus,39.9,47,47,92.76
+Vibriophage VP4,Virus,39.5,21,21,68.82
+Vibriophage VpV262,Virus,46,67,68,91.79
+Xanthomonas campestris pv. pelargonii phage Xp15,Virus,55.8,84,84,90.28
+Xanthomonas oryzae bacteriophage Xp10,Virus,44.4,60,60,89.55
+Xanthomonas phage Cf1c,Virus,7.3,9,9,80.32
+Yersinia pestis phage phiA1122,Virus,37.6,50,50,91.84
+Acanthaster brevispinus mitochondrion,Mitochondria,16.3,13,37,
+Acanthaster planci mitochondrion,Mitochondria,16.2,13,37,
+Acrochordus granulatus mitochondrion,Mitochondria,17.6,13,37,64
+Alectura lathami mitochondrion,Mitochondria,16.7,13,37,68
+Ambystoma andersoni mitochondrion,Mitochondria,16.4,13,37,69
+Ambystoma californiense mitochondrion,Mitochondria,16.4,13,37,69
+Ambystoma dumerilii mitochondrion,Mitochondria,16.4,13,37,69
+Andrias japonicus mitochondrion,Mitochondria,16.3,13,37,69
+Anisakis simplex mitochondrion,Mitochondria,13.9,12,36,
+Aplysia californica mitochondrion,Mitochondria,14.1,13,37,77
+Arabidopsis thaliana mitochondrion,Mitochondria,366.9,66,85,11
+Aspergillus niger mitochondrion,Mitochondria,31.1,16,43,
+Aspergillus tubingensis mitochondrion,Mitochondria,33.7,16,43,
+Asterias amurensis mitochondrion,Mitochondria,16.4,13,32,69
+Astropecten polyacanthus mitochondrion,Mitochondria,16.3,13,32,70
+Bactrocera oleae mitochondrion,Mitochondria,15.8,13,37,70
+Balaenoptera edeni mitochondrion,Mitochondria,16.4,13,37,
+Balaenoptera omurai mitochondrion,Mitochondria,16.4,13,37,
+Balaenoptera physalus mitochondrion,Mitochondria,16.4,13,37,69
+Bipes canaliculatus mitochondrion,Mitochondria,16.2,13,37,69
+Boa constrictor mitochondrion,Mitochondria,18.9,13,37,59
+Bombina bombina ,Mitochondria,17.6,13,37,64
+Bombyx mandarina mitochondrion,Mitochondria,15.9,13,37,70
+Bombyx mori mitochondrion,Mitochondria,15.6,13,13,71
+Bos grunniens mitochondrion,Mitochondria,16.3,12,36,58
+Bos indicus mitochondrion,Mitochondria,16.3,13,36,69
+Bos taurus mitochondrion,Mitochondria,16.3,13,58,69
+Branta canadensis mitochondrion,Mitochondria,16.8,13,37,67
+Buergeria buergeri mitochondrion,Mitochondria,20,13,37,56
+Cafeteria roenbergensis mitochondrion,Mitochondria,43.1,34,58,82
+Callinectes sapidus mitochondrion,Mitochondria,16.3,13,37,68
+Campanulotes bidentatus compar mitochondrion,Mitochondria,14.8,13,37,
+Candida albicans SC5314 mitochondrion,Mitochondria,40.4,13,45,24
+Candida glabrata mitochondrion,Mitochondria,20,11,37,47
+Candida metapsilosis mitochondrion,Mitochondria,24.2,15,41,54
+Candida orthopsilosis mitochondrion,Mitochondria,22.5,15,41,56
+Candida parapsilosis mitochondrion,Mitochondria,32.7,20,46,
+Carassius auratus x Cyprinus carpio mitochondrion,Mitochondria,16.6,13,37,
+Carassius auratus x Cyprinus carpio x Carassius cuvieri mitochondrion,Mitochondria,16.6,13,37,
+Cathartes aura mitochondrion,Mitochondria,16.8,13,37,67
+Centruroides limpidus mitochondrion,Mitochondria,14.5,13,36,74
+Cercopithecus aethiops mitochondrion,Mitochondria,16.4,13,37,69
+Cervus elaphus mitochondrion,Mitochondria,16.4,13,37,65
+Cervus nippon yakushimae mitochondrion,Mitochondria,16.4,13,37,68
+Chauliodus sloani mitochondrion,Mitochondria,17.8,13,37,64
+Chirocentrus dorab mitochondrion,Mitochondria,16,13,37,71
+Chlorurus sordidus mitochondrion,Mitochondria,16.7,13,37,68
+Choloepus didactylus mitochondrion,Mitochondria,16.5,13,37,68
+Chondrus crispus mitochondrion,Mitochondria,25.8,25,51,71
+Chrysodidymus synuroideus mitochondrion,Mitochondria,34.1,37,62,
+Ciona savignyi mitochondrion,Mitochondria,14.7,12,38,74
+Cobitis sinensis mitochondrion,Mitochondria,16.6,13,37,68
+Cordylus warreni mitochondrion,Mitochondria,17.2,13,39,66
+Coreoleuciscus splendidus mitochondrion,Mitochondria,16.6,13,37,68
+Crassostrea virginica mitochondrion,Mitochondria,17.2,12,37,
+Cricetulus griseus mitochondrion,Mitochondria,16.3,13,15,
+Crinipellis perniciosa mitochondrion,Mitochondria,109.1,89,117,50
+Crocidura russula mitochondrion,Mitochondria,17.2,13,26,65
+Cromeria nilotica mitochondrion,Mitochondria,16,13,35,
+Cyanidioschyzon merolae mitochondrion,Mitochondria,32.2,34,62,76
+Cyanidioschyzon merolae mitochondrion,Mitochondria,32.2,31,62,76
+Cygnus columbianus mitochondrion,Mitochondria,16.7,13,37,68
+Cylindrophis ruffus mitochondrion,Mitochondria,17.5,13,37,64
+Cypselurus hiraii mitochondrion,Mitochondria,16.5,13,37,69
+Danio rerio mitochondrion,Mitochondria,16.6,13,37,68
+Dasyurus hallucatus mitochondrion,Mitochondria,17.2,13,37,68
+Denticeps clupeoides mitochondrion,Mitochondria,17.2,13,37,65
+Desmarestia viridis mitochondrion,Mitochondria,39,39,68,69
+Dictyostelium citrinum mitochondrion,Mitochondria,58.6,33,46,68
+Dictyota dichotoma mitochondrion,Mitochondria,31.6,38,66,77
+Diomedea melanophris mitochondrion,Mitochondria,17,13,37,69
+Doliolum nationalis mitochondrion,Mitochondria,16.4,13,40,66
+Drosophila melanogaster mitochondrion,Mitochondria,19.5,13,37,57
+Echinococcus multilocularis mitochondrion,Mitochondria,13.7,12,36,73
+Echymipera rufescens australis mitochondrion,Mitochondria,16.6,13,37,68
+Emmelichthys struhsakeri mitochondrion,Mitochondria,16.5,13,37,68
+Epidermophyton floccosum mitochondrion,Mitochondria,30.9,64,51,67
+Epigonichthys lucayanus mitochondrion,Mitochondria,15.1,13,37,74
+Epigonichthys maldivensis mitochondrion,Mitochondria,15,13,37,75
+Fejervarya limnocharis mitochondrion,Mitochondria,17.7,13,38,63
+Fucus vesiculosus mitochondrion,Mitochondria,36.4,38,67,77
+Gallus gallus gallus mitochondrion,Mitochondria,16.8,13,37,67
+Gallus lafayettei mitochondrion,Mitochondria,16.8,13,37,67
+Gallus sonneratii mitochondrion,Mitochondria,16.8,13,37,67
+Gavia stellata mitochondrion,Mitochondria,17.6,13,37,67
+Gegeneophis ramaswamii mitochondrion,Mitochondria,15.9,13,36,70
+Gekko gecko mitochondrion,Mitochondria,16.4,13,37,68
+Geochelone pardalis mitochondrion,Mitochondria,19.4,13,37,54
+Geothelphusa dehaani mitochondrion,Mitochondria,18.2,13,38,61
+Gonodactylus chiragra mitochondrion,Mitochondria,16.3,13,37,68
+Grasseichthys gabonensis mitochondrion,Mitochondria,16.9,13,37,11
+Gryllotalpa orientalis mitochondrion,Mitochondria,15.5,13,37,71
+Gymnocrinus richeri mitochondrion,Mitochondria,16,13,37,71
+Haematobia irritans irritans mitochondrion,Mitochondria,16.1,13,37,69
+Haliotis rubra mitochondrion,Mitochondria,16.9,13,37,69
+Halocynthia roretzi mitochondrion,Mitochondria,14.8,12,37,72
+Hanseniaspora uvarum mitochondrion,Mitochondria,18.8,8,33,32
+Harpiosquilla harpax mitochondrion,Mitochondria,15.7,13,37,72
+Hemibarbus labeo mitochondrion,Mitochondria,16.6,13,37,68
+Hemibarbus longirostris mitochondrion,Mitochondria,16.6,13,37,68
+Hemibarbus mylodon mitochondrion,Mitochondria,16.6,13,37,68
+Hexatrygon bickelli mitochondrion,Mitochondria,17.5,13,37,65
+Hyla chinensis mitochondrion,Mitochondria,18.2,13,37,62
+Ichthyophis bannanicus mitochondrion,Mitochondria,16,13,37,70
+Ilyanassa obsoleta mitochondrion,Mitochondria,15.3,13,37,73
+Indotestudo elongata mitochondrion,Mitochondria,16.8,13,37,67
+Japyx solifugus mitochondrion,Mitochondria,15.8,13,37,70
+Jenkinsia lamprotaenia mitochondrion,Mitochondria,16.8,13,37,67
+Kaloula pulchra mitochondrion,Mitochondria,16.8,13,37,67
+Kluyveromyces thermotolerans mitochondrion,Mitochondria,23.6,11,38,41
+Kneria sp. SL-2004 mitochondrion,Mitochondria,16.4,13,37,43
+Larus dominicanus mitochondrion,Mitochondria,16.7,13,37,68
+Lates calcarifer mitochondrion,Mitochondria,16.5,13,37,70
+Latimeria menadoensis mitochondrion,Mitochondria,16.5,13,37,65
+Lecanicillium muscarium mitochondrion,Mitochondria,24.5,15,42,58
+Lepeophtheirus salmonis mitochondrion,Mitochondria,15.4,12,36,70
+Leptorhynchoides thecatus mitochondrion,Mitochondria,13.9,12,38,74
+Leptotrombidium akamushi mitochondrion,Mitochondria,13.7,13,37,75
+Leptotrombidium deliense mitochondrion,Mitochondria,13.7,13,37,74
+Leptotrombidium pallidum mitochondrion,Mitochondria,16.8,13,38,61
+Limnonectes fujianensis mitochondrion,Mitochondria,17.7,13,37,42
+Lipotes vexillifer mitochondrion,Mitochondria,16.4,13,37,69
+Lottia digitalis mitochondrion,Mitochondria,26.8,13,35,43
+Loxodonta africana mitochondrion,Mitochondria,16.9,13,37,67
+Luidia quinalia mitochondrion,Mitochondria,16.5,13,32,69
+Lyciasalamandra atifi mitochondrion,Mitochondria,16.7,13,37,68
+Lysiosquillina maculata mitochondrion,Mitochondria,16.3,13,37,68
+Macrobrachium rosenbergii mitochondrion,Mitochondria,15.8,13,37,68
+Malacochersus tornieri mitochondrion,Mitochondria,19.2,13,38,59
+Mammuthus primigenius mitochondrion,Mitochondria,16.8,13,37,67
+Manouria emys mitochondrion,Mitochondria,16.5,13,37,74
+Mantella madagascariensis mitochondrion,Mitochondria,22.9,13,38,74
+Marsupenaeus japonicus mitochondrion,Mitochondria,16,13,37,69
+Masturus lanceolatus mitochondrion,Mitochondria,16.5,13,37,70
+Melanogrammus aeglefinus mitochondrion,Mitochondria,16.6,13,37,68
+Menura novaehollandiae mitochondrion,Mitochondria,17.8,13,37,69
+Merlangius merlangus mitochondrion,Mitochondria,16.6,13,37,69
+Mesobuthus gibbosus mitochondrion,Mitochondria,16,13,37,67
+Microhyla heymonsi mitochondrion,Mitochondria,16.7,13,37,67
+Mola mola mitochondrion,Mitochondria,16.5,13,37,67
+Montastraea annularis mitochondrion,Mitochondria,16.1,13,17,72
+Montastraea faveolata mitochondrion,Mitochondria,16.1,13,17,72
+Mortierella verticillata mitochondrion,Mitochondria,58.7,25,54,36
+Mus musculus mitochondrion,Mitochondria,16.3,13,57,69
+Mytilus trossulus mitochondrion,Mitochondria,18.7,12,38,73
+Myxocyprinus asiaticus mitochondrion,Mitochondria,16.6,13,37,68
+Octopus ocellatus mitochondrion,Mitochondria,16,13,37,70
+Orbinia latreillii mitochondrion,Mitochondria,15.6,13,37,68
+Oreochromis mossambicus mitochondrion,Mitochondria,16.6,13,37,69
+Ornithodoros porcinus mitochondrion,Mitochondria,14.4,13,37,75
+Oryza sativa (indica cultivar-group) mitochondrion,Mitochondria,491.5,54,93,68
+Ovophis okinavensis mitochondrion,Mitochondria,17.4,13,37,64
+Pantholops hodgsonii mitochondrion,Mitochondria,16.5,13,37,68
+Paracoccidioides brasiliensis mitochondrion,Mitochondria,71.3,17,44,68
+Parakneria cameronensis mitochondrion,Mitochondria,16.6,13,37,66
+Paramecium aurelia mitochondrion,Mitochondria,40.5,46,54,64
+Paramesotriton hongkongensis mitochondrion,Mitochondria,16.3,13,37,69
+Pedinomonas minor mitochondrion,Mitochondria,25.1,11,23,69
+Periplaneta fuliginosa mitochondrion,Mitochondria,15,13,37,74
+Petrobius brevistylis mitochondrion,Mitochondria,15.7,13,37,71
+Phanogenia gracilis mitochondrion,Mitochondria,15.9,13,37,72
+Philaenus spumarius mitochondrion,Mitochondria,16.3,13,37,67
+Phocoena phocoena mitochondrion,Mitochondria,16.4,13,26,59
+Phractolaemus ansorgii mitochondrion,Mitochondria,16.5,13,37,64
+Physcomitrella patens mitochondrion,Mitochondria,105.3,,69,68
+Phytophthora infestans mitochondrion,Mitochondria,38,40,67,69
+Placopecten magellanicus mitochondrion,Mitochondria,32.1,12,48,35
+Plasmodium simium mitochondrion,Mitochondria,6,3,3,55
+Plasmodium vivax mitochondrion,Mitochondria,6,3,3,56
+Podospora anserina mitochondrion,Mitochondria,94.2,53,82,58
+Polypedates megacephalus mitochondrion,Mitochondria,16.5,11,35,56
+Porichthys myriaster mitochondrion,Mitochondria,18.9,13,37,60
+Pseudocarcinus gigas mitochondrion,Mitochondria,15.5,13,37,67
+Pterodroma brevirostris mitochondrion,Mitochondria,16.4,13,37,67
+Pteronarcys princeps mitochondrion,Mitochondria,16,13,37,70
+Pyrocoelia rufa mitochondrion,Mitochondria,17.7,13,37,62
+Python regius mitochondrion,Mitochondria,17.2,13,37,65
+Raja porosa mitochondrion,Mitochondria,17,13,37,67
+Rangifer tarandus mitochondrion,Mitochondria,16.4,13,37,69
+Ranzania laevis mitochondrion,Mitochondria,16.5,13,37,69
+Rattus norvegicus mitochondrion,Mitochondria,16.3,13,37,69
+Rattus norvegicus strain BN/SsNHsdMCW mitochondrion,Mitochondria,16.3,13,37,69
+Reclinomonas americana mitochondrion,Mitochondria,69,67,97,80
+Rhacophorus schlegelii mitochondrion,Mitochondria,21.4,13,37,52
+Rhizopus oryzae mitochondrion,Mitochondria,54.2,24,51,38
+Rhodeus uyekii mitochondrion,Mitochondria,16.8,13,37,69
+Roboastra europaea mitochondrion,Mitochondria,14.5,13,37,75
+Rousettus aegyptiacus mitochondrion,Mitochondria,16.7,13,37,67
+Saccharomyces cerevisiae mitochondrion,Mitochondria,85.8,19,46,23
+Saccoglossus kowalevskii mitochondrion,Mitochondria,17,13,37,66
+Salanx ariakensis mitochondrion,Mitochondria,16.6,13,37,68
+Scenedesmus obliquus mitochondrion,Mitochondria,42.8,20,53,38
+Schizosaccharomyces pombe mitochondrion,Mitochondria,19.4,10,37,50
+Scleropages formosus mitochondrion,Mitochondria,16.7,13,37,68
+Sclerophasma paresisensis mitochondrion,Mitochondria,15.5,13,37,71
+Scolecomorphus vittatus mitochondrion,Mitochondria,16,13,37,70
+Scomber scombrus mitochondrion,Mitochondria,16.6,13,37,68
+Sebastes schlegeli mitochondrion,Mitochondria,16.5,13,37,69
+Sepia officinalis mitochondrion,Mitochondria,16.2,13,37,65
+Sepioteuthis lessoniana mitochondrion,Mitochondria,16.6,13,37,69
+Siphonops annulatus mitochondrion,Mitochondria,16.2,13,37,69
+Sminthopsis crassicaudata mitochondrion,Mitochondria,17.4,13,37,69
+Smittium culisetae mitochondrion,Mitochondria,58.7,31,61,43
+Sorex unguiculatus mitochondrion,Mitochondria,17.1,13,37,66
+Spadella cephaloptera mitochondrion,Mitochondria,11.9,11,13,81
+Spizaetus alboniger mitochondrion,Mitochondria,18,13,37,63
+Spizaetus nipalensis mitochondrion,Mitochondria,17.7,13,37,64
+Squilla empusa mitochondrion,Mitochondria,15.8,13,37,70
+Steinernema carpocapsae mitochondrion,Mitochondria,13.9,12,36,73
+Sundasalanx mekongensis mitochondrion,Mitochondria,16.7,13,37,68
+Sus scrofa mitochondrion,Mitochondria,16.6,13,37,68
+Synodus variegatus mitochondrion,Mitochondria,16.5,13,37,69
+Taenia asiatica mitochondrion,Mitochondria,13.7,12,36,73
+Taeniopygia guttata mitochondrion,Mitochondria,16.9,13,37,81
+Tamolanica tamolana mitochondrion,Mitochondria,16.1,13,37,69
+Teratoscincus keyserlingii mitochondrion,Mitochondria,17.2,13,37,64
+Testudo graeca mitochondrion,Mitochondria,19.3,13,37,74
+Testudo horsfieldii mitochondrion,Mitochondria,17.1,13,37,66
+Testudo kleinmanni mitochondrion,Mitochondria,17.7,13,37,64
+Testudo marginata mitochondrion,Mitochondria,19.5,13,37,58
+Tetrahymena pyriformis mitochondrion,Mitochondria,47.3,44,58,62
+Tetraodon nigroviridis mitochondrion,Mitochondria,16.5,13,37,69
+Thalassiosira pseudonana mitochondrion,Mitochondria,43.8,35,62,64
+Thrips imaginis mitochondrion,Mitochondria,15.4,13,38,70
+Triticum aestivum mitochondrion,Mitochondria,452.5,39,73,7
+Verasper variegatus mitochondrion,Mitochondria,17.3,13,37,24
+Verasper variegatus mitochondrion,Mitochondria,17,13,37,67
+Verasper variegatus mitochondrion,Mitochondria,14.8,13,39,74
+Volemys kikuchii mitochondrion,Mitochondria,16.3,13,37,69
+Watasenia scintillans mitochondrion,Mitochondria,20.1,18,43,
+Xenopeltis unicolor mitochondrion,Mitochondria,18.9,13,37,59
+Yarrowia lipolytica mitochondrion,Mitochondria,48,24,53,45
+Acorus calamus plastid,Chloroplasts,153.8,84,130,49
+Adiantum capillus-veneris chloroplast,Chloroplasts,151,87,130,
+Anthoceros formosae chloroplast,Chloroplasts,161,90,135,
+Arabidopsis thaliana chloroplast,Chloroplasts,154,87,132,
+Atropa belladonna chloroplast,Chloroplasts,156.7,87,132,51
+Calycanthus floridus var. glaucus chloroplast,Chloroplasts,153,88,134,
+Chaetosphaeridium globosum chloroplast,Chloroplasts,131,98,141,
+Cucumis sativus chloroplast,Chloroplasts,155.3,85,131,49
+Cyanophora paradoxa chloroplast,Chloroplasts,135.6,149,192,
+Emiliania huxleyi chloroplast,Chloroplasts,105.3,119,155,76
+Euglena gracilis chloroplast,Chloroplasts,143,66,114,66
+Glycine max chloroplast,Chloroplasts,152,,128,48
+Gossypium hirsutum chloroplast,Chloroplasts,160,,131,44
+Gracilaria tenuistipitata var. liui chloroplast,Chloroplasts,183.9,203,238,80
+Lactuca sativa chloroplast,Chloroplasts,152.7,84,128,47
+Lycopersicon esculentum chloroplast,Chloroplasts,155,86,132,54
+Nicotiana tabacum plastid,Chloroplasts,155.9,101,146,49
+Nicotiana tomentosiformis chloroplast,Chloroplasts,155.7,109,155,54
+Phalaenopsis aphrodite subsp. formosana chloroplast,Chloroplasts,149,97,141,44
+Porphyra yezoensis chloroplast,Chloroplasts,192,209,264,51
+Psilotum nudum chloroplast,Chloroplasts,138.8,101,150,55
+Solanum bulbocastanum chloroplast,Chloroplasts,155,,142,80
+Spinacia oleracea plastid,Chloroplasts,151,98,143,48
+Theileria parva strain Muguga apicoplast ,Chloroplasts,39.6,44,70,66
+Toxoplasma gondii apicoplast chloroplast,Chloroplasts,35,26,63,52

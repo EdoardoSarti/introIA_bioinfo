@@ -1,0 +1,1 @@
+awk 'BEGIN{FS=","} $1=="Eukaryotes"||$1=="Bacteria"||$1=="Archaea"||$1=="Virus"||$1=="Mitochondria"||$1=="Chloroplasts"{x=$1;next} NR>1&&$1{printf "%s,%s,%s,%s,%s,%s\n", $1, x, $2, $3, $4, $5}' Genomes.csv | awk '{if (index($NF,"(")==0) {print} else {print substr($0,1,index($0,"(")-1)}}' > genome_sizes.csv
